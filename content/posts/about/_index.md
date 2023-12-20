@@ -1,5 +1,6 @@
 ---
-title: "西藏简介"
-date: 2023-03-02T12:00:00-05:00
+title: "卷首语"
+
+featured_image: '/image/25.jpg'
 ---
 Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.

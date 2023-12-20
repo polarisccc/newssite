@@ -1,8 +1,11 @@
 baseURL = 'https://polarisccc.github.io/newssite/'
 canonifyurls = true
 languageCode = 'zh'
+hasCJKLanguage = true
 title = '新闻作业展示'
 publishDir="docs"
+summaryLengh = 30
+sectionPagesMenu = "main"
 theme = 'ananke'
 [markup]
 defaultMarkdownHandler = "goldmark"
