@@ -1,7 +1,7 @@
 baseURL = 'https://polarisccc.github.io/newssite/'
 canonifyurls = true
 languageCode = 'zh'
-title = '雪域印象'
+title = '新闻作业展示'
 publishDir="docs"
 theme = 'ananke'
 [markup]
