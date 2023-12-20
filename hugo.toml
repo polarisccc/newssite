@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/polarisccc/newssite/settings/pages'
+baseURL = 'https://polarisccc.github.io/newssite/'
 canonifyurls = true
 languageCode = 'zh'
 title = '雪域印象'
