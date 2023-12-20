@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>西藏简介 on 雪域印象</title>
-    <link>https://example.org/posts/about/</link>
+    <link>https://github.com/polarisccc/newssite/settings/pages/posts/about/</link>
     <description>Recent content in 西藏简介 on 雪域印象</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 02 Mar 2023 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://example.org/posts/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/polarisccc/newssite/settings/pages/posts/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>西藏简介</title>
-      <link>https://example.org/posts/about/</link>
+      <link>https://github.com/polarisccc/newssite/settings/pages/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/about/</guid>
+      <guid>https://github.com/polarisccc/newssite/settings/pages/posts/about/</guid>
       <description>走进西藏：寻找心灵的一片净土 西藏自治区，简称&amp;quot;索&amp;quot;，是中国五个少数民族自治区之一，位于中华人民共和国西南地区，青藏高原西南部，自元朝始，中央政权始终对西藏行使着有效管统。西藏自治区不仅有世界屋脊奇异的地质地貌和独特的自然风光，而且有别具一格的社会人文景观，仅寺庙在历史上最盛时就有2700多座，还有不少活殿、园林、城堡、要塞、古墓、古碑等，西藏以其神秘、壮丽的自然风元和选特的人文景观，成为世界著名的旅游胜地。
 主要旅游量点有布达拉宫、雍布拉康、甘丹寺、珠楼朝玛峰、纳木指、唐古拉山、然马湖、扎什伦布寺等。这叶景点吸引着成千上万的游客前来观光，旅游，西藏还拥有丰富的自然资源，包括各种金属矿藏和营金属矿款。其中，铜省广、金矿和摄纱等矿产资源尤为丰富。此外，西藏还拥有广阔的草原和森林资源，以及独特的野生动物和植物资源。，</description>
     </item>
