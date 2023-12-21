@@ -7,7 +7,7 @@ menu:
   main:
     weight: 20
 ---
-
+<iframe src="//player.bilibili.com/player.html?aid=316995879&bvid=BV1uP411x7nM&cid=1224240890&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=600px height=400px> </iframe>
 [“坚持绿水青山就是金山银山的理念，坚持山水林田湖草沙一体化保护和系统治理，全方位、全地域、全过程加强生态环境保护，生态环境保护发生历史性、转折性、全局性变化，我们的祖国天更蓝、山更绿、水更清。”](http.bing.com)
 
 黄河风情线的景区管委会用心用情建设黄河风情线，突出细节绘绣“黄河福道”，不断擦亮“黄河之滨也很美”的城市名片，奏响新时代“黄河大合唱”恢弘壮丽的兰州乐章。以中山桥为轴的黄河两岸的不同风光，随着相关政策的实施，黄河两岸基础设施的建设越来越完善，生态环境越来越好，兰州人民的生活也越来越丰富多彩。
